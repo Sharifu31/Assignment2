@@ -230,7 +230,7 @@ footer
         display:none;
     }
     .view_button{
-        margin-top: 10%;
+        margin-top: 20%;
         height: 10vh;
         display: flex;
         justify-content: center;
