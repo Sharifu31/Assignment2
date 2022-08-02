@@ -242,13 +242,13 @@ footer
         display:none;
     }
     .upcoming_matc2{
-        margin-top: 17%;
+        margin-top: 5%;
         height: 10vh;
         display: flex;
         justify-content: center;
     }
     .match_schedue2{
-        margin-top: -20%;
+        margin-top: -30%;
         margin-left: 15%;
         margin-right: 15%;
     }
@@ -259,7 +259,7 @@ footer
         border-radius: 5px;
     }
     .footer{
-        margin-top:-10%;
+        margin-top:-20%;
     }
     .footer_link{
         margin-left: 22%;
